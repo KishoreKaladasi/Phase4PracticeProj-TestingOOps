@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phase4PracticeProj-LibraryOOps", "Phase4PracticeProj-LibraryOOps\Phase4PracticeProj-LibraryOOps.csproj", "{96739AB5-51B0-4CC7-96A5-C93D6AFD946A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingPhase4OOps.tests", "TestingPhase4OOps.tests\TestingPhase4OOps.tests.csproj", "{11424075-C4E7-4DF9-BB14-3A120E423838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96739AB5-51B0-4CC7-96A5-C93D6AFD946A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96739AB5-51B0-4CC7-96A5-C93D6AFD946A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96739AB5-51B0-4CC7-96A5-C93D6AFD946A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96739AB5-51B0-4CC7-96A5-C93D6AFD946A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11424075-C4E7-4DF9-BB14-3A120E423838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11424075-C4E7-4DF9-BB14-3A120E423838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11424075-C4E7-4DF9-BB14-3A120E423838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11424075-C4E7-4DF9-BB14-3A120E423838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906F0BE8-042C-43BF-B1B6-0DF95EEE1542}
+	EndGlobalSection
+EndGlobal

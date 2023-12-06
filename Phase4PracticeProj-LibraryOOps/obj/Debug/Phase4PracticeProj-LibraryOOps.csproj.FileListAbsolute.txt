@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Phase4PracticeProj-LibraryOOps\Phase4PracticeProj-LibraryOOps\bin\Debug\Phase4PracticeProj-LibraryOOps.dll
+C:\Users\ASUS\source\repos\Phase4PracticeProj-LibraryOOps\Phase4PracticeProj-LibraryOOps\bin\Debug\Phase4PracticeProj-LibraryOOps.pdb
+C:\Users\ASUS\source\repos\Phase4PracticeProj-LibraryOOps\Phase4PracticeProj-LibraryOOps\obj\Debug\Phase4PracticeProj-LibraryOOps.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Phase4PracticeProj-LibraryOOps\Phase4PracticeProj-LibraryOOps\obj\Debug\Phase4PracticeProj-LibraryOOps.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Phase4PracticeProj-LibraryOOps\Phase4PracticeProj-LibraryOOps\obj\Debug\Phase4PracticeProj-LibraryOOps.dll
+C:\Users\ASUS\source\repos\Phase4PracticeProj-LibraryOOps\Phase4PracticeProj-LibraryOOps\obj\Debug\Phase4PracticeProj-LibraryOOps.pdb
